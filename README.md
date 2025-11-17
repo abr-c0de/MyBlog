@@ -4,7 +4,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" />
-  <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1705693893/logo/brand/cloudinary_Logo_Whitebg.svg" width="90" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudinary/cloudinary-plain.svg" width="60" />
+
 </p>
 
 A fully functional, responsive blog application built with **React.js**, **Tailwind CSS**, **Firebase**, and **Cloudinary**.  
