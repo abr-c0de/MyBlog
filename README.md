@@ -19,11 +19,7 @@ Users can create, edit, delete, and read blogs, with authentication and author-o
 - [✨ Features](#-features)  
 - [📂 Folder Structure](#-folder-structure)  
 - [🛠️ Installation & Run Locally](#-installation--run-locally)  
-- [🌐 Live Demo](#-live-demo)  
-- [📸 Screenshots](#-screenshots)  
-- [🤝 Contributing](#-contributing)  
-- [📄 License](#-license)  
-
+  
 ---
 
 ## 🚀 Tech Stack
