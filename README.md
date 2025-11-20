@@ -1,4 +1,4 @@
-# 📘 Blog App (React + Firebase + Cloudinary)
+# 📘 myBlog (React + Firebase + Cloudinary)
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" />
@@ -72,7 +72,7 @@ Users can create, edit, delete, and read blogs, with authentication and author-o
 
 ## 📂 Folder Structure
 
-```plaintext
+
 src/
 │── assets/                # Images, icons, logos used in the app
 │── AuthContext/           # Context for managing user authentication state
@@ -90,7 +90,11 @@ src/
 │── App.jsx                # Main React component
 │── index.css              # Tailwind / global styles
 └── main.jsx               # React entry point
-🛠️ Installation & Run Locally
+
+---
+
+## 🛠️ Installation & Run Locally
+
 1️⃣ Clone the repository
 bash
 Copy code
