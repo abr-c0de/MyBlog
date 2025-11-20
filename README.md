@@ -93,6 +93,8 @@ src/
 
 ## 🛠️ Installation & Run Locally
 
+```plaintext
+
 1️⃣ Clone the repository
 bash
 Copy code
