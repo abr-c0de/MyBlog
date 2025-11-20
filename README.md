@@ -68,6 +68,7 @@ Users can create, edit, delete, and read blogs, with authentication and author-o
 
 ## 📂 Folder Structure
 
+```plaintext
 
 src/
 │── assets/                # Images, icons, logos used in the app
@@ -86,6 +87,7 @@ src/
 │── App.jsx                # Main React component
 │── index.css              # Tailwind / global styles
 └── main.jsx               # React entry point
+```
 
 ---
 
